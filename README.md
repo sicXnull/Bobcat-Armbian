@@ -1,7 +1,7 @@
 # Bobcat 300 Miner - Armbian Build
 
 **Version:** v26.02 rolling  
-**Hardware:** Bobcat 285 (RK3566)  
+**Hardware:** Bobcat 300 (RK3566)  
 **Kernel:** Linux 6.18.4-current-rockchip64  
 
 ## Overview
