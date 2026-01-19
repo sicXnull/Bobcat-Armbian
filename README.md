@@ -12,7 +12,7 @@ Custom Armbian image for the Bobcat 300 Miner running on Rockchip RK3566 hardwar
 
 ### Supported Models and Download Links
 - [Bobcat 300 G280] 
-- [Bobcat 300 G285]() 
+- [Bobcat 300 G285](https://github.com/sicXnull/Bobcat-Armbian/releases/download/1.0/BobcatArmbian285.img.xz) 
 - [Bobcat 300 G290]
 - [Bobcat 300 G295]
 
