@@ -6,7 +6,7 @@
 
 ## Overview
 
-Custom Armbian image for the Bobcat 300 Miner running on Rockchip RK3566 hardware.
+Custom SD Card Armbian image for the Bobcat 300 Miner running on Rockchip RK3566 hardware.
 
 ## Installation
 
