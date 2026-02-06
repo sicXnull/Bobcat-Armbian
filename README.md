@@ -62,4 +62,18 @@ apt update && apt upgrade -y
 
 ---
 
-**Image:** BobcatArmbian285.img.xz
+## Helium Installation
+
+```bash
+# Get configuration file
+
+wget https://raw.githubusercontent.com/sicXnull/Bobcat-Armbian/refs/heads/main/install_helium.sh
+
+# set permissions
+
+chmod +x install_helium.sh
+
+# install helium
+
+./install_helium.sh
+```
