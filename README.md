@@ -24,10 +24,10 @@ Please read the correct section below for your device.
   https://github.com/sicXnull/Bobcat-Armbian/releases/download/1.0/BobcatArmbian285.img.xz  
 
 - **Bobcat 300 G290 (eMMC Flasher)**  
-  https://github.com/sicXnull/Bobcat-Armbian/releases/download/1.0/Bobcat29X_EMMC_Flasher.img  
+  [https://github.com/sicXnull/Bobcat-Armbian/releases/download/1.0/Bobcat29X_EMMC_Flasher.img](https://github.com/sicXnull/Bobcat-Armbian/releases/download/1.0/Bobcat29X_EMMC_Flasher.img.xz)  
 
 - **Bobcat 300 G295 (eMMC Flasher)**  
-  https://github.com/sicXnull/Bobcat-Armbian/releases/download/1.0/Bobcat29X_EMMC_Flasher.img  
+  [https://github.com/sicXnull/Bobcat-Armbian/releases/download/1.0/Bobcat29X_EMMC_Flasher.img](https://github.com/sicXnull/Bobcat-Armbian/releases/download/1.0/Bobcat29X_EMMC_Flasher.img.xz) 
 
 ---
 
