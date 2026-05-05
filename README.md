@@ -149,16 +149,6 @@ You will be prompted to:
 
 ---
 
-# Access
-
-```bash
-ssh root@<device-ip>
-
-apt update && apt upgrade -y
-```
-
----
-
 # Helium Installation
 
 ```bash
