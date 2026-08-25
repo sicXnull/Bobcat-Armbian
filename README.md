@@ -10,7 +10,9 @@ Custom **Armbian** image for the **Bobcat 300 Miner** running on **Rockchip RK35
 Please read the correct section below for your device.
 ---
 ## Supported Models & Downloads
-- **Bobcat 300 G280** – _Coming soon_
+- **Bobcat 300 G280 (SD Boot Version- NO WIFI)**
+  
+  https://github.com/sicXnull/Bobcat-Armbian/releases/download/1.0/BobcatArmbian280.img.xz
 - **Bobcat 300 G285 (SD Boot Version)**  
   https://github.com/sicXnull/Bobcat-Armbian/releases/download/1.0/BobcatArmbian285.img.xz  
 - **Bobcat 300 G290 (eMMC Flasher)**  
@@ -94,7 +96,7 @@ You will be prompted to:
 - Change root password  
 - Create a new user  
 ---
-# Helium Installation
+# Helium Installation (Only for 285/29x)
 ```bash
 wget https://raw.githubusercontent.com/sicXnull/Bobcat-Armbian/refs/heads/main/install_helium.sh
 chmod +x install_helium.sh
