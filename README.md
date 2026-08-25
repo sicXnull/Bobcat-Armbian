@@ -20,11 +20,11 @@ Please read the correct section below for your device.
 - **Bobcat 300 G295 (eMMC Flasher)**  
   [https://github.com/sicXnull/Bobcat-Armbian/releases/download/1.0/Bobcat29X_EMMC_Flasher.img](https://github.com/sicXnull/Bobcat-Armbian/releases/download/1.0/Bobcat29X_EMMC_Flasher.img.xz) 
 ---
-# G285 – SD Card Boot (No eMMC Flash Required)
+# G280/285 – SD Card Boot (No eMMC Flash Required)
 The **G285 boots and runs entirely from the SD card.**  
 Nothing is written to internal eMMC.
 ---
-## Installation (G285)
+## Installation (G280/285)
 ### 1️⃣ Flash the Image to SD Card
 ### Linux
 ```bash
