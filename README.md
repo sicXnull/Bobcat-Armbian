@@ -1,3 +1,9 @@
+## Support
+
+Need help, have questions, or want to chat with other users? Join the Discord:
+
+[![Discord](https://img.shields.io/badge/Discord-Join%20Us-5865F2?logo=discord&logoColor=white)](https://discord.com/invite/ZwHAVHUsFR)
+
 # Bobcat 300 Miner – Armbian Build
 **Version:** v26.02 rolling  
 **Hardware:** Bobcat 300 (RK3566)  
